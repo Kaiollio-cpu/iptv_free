@@ -1,3 +1,1078 @@
 #EXTM3U
-#EXTINF:-1,icarly
-https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | 4K",RecordTV SP UHD
+http://nanoignite.click:80/296040024/F955v9452Y/244074
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN 4 UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284581
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO SP UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | 4K",GLOBO SP UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284587
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | 4K",GloboNews UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284589
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Pipoca UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284598
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/AXN.png" group-title="Canais | 4K",AXN UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284601
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | 4K",AMC UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284602
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | 4K",Disc. Channel UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284605
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | 4K",Curta! UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284614
+#EXTINF:-1 tvg-id="Globoplaynovelas.br" tvg-name="Globo Play Novelas UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/VIVA.png" group-title="Canais | 4K",Globo Play Novelas UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284616
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Turbo UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYTURBO.png" group-title="Canais | 4K",Disc. Turbo UHD
+http://nanoignite.click:80/296040024/F955v9452Y/284618
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | 4K",SporTV 4 UHD
+http://nanoignite.click:80/296040024/F955v9452Y/567894
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | 4K",HBO UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21248
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP FHD
+http://nanoignite.click:80/296040024/F955v9452Y/289881
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP UHD
+http://nanoignite.click:80/296040024/F955v9452Y/289882
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP HD
+http://nanoignite.click:80/296040024/F955v9452Y/289883
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band SP FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255465
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title="Canais | 4K",Band SP UHD
+http://nanoignite.click:80/296040024/F955v9452Y/255466
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band SP HD
+http://nanoignite.click:80/296040024/F955v9452Y/255467
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band SP SD
+http://nanoignite.click:80/296040024/F955v9452Y/255469
+#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/264555
+#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  HD
+http://nanoignite.click:80/296040024/F955v9452Y/264556
+#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas  SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  SD
+http://nanoignite.click:80/296040024/F955v9452Y/264557
+#EXTINF:-1 tvg-id="Adultswim.br" tvg-name="Adult Swim FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Swin.png" group-title="Canais |  Variedades ",Adult Swim FHD
+http://nanoignite.click:80/296040024/F955v9452Y/376344
+#EXTINF:-1 tvg-id="Adultswim.br" tvg-name="Adult Swim HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Swin.png" group-title="Canais |  Variedades ",Adult Swim HD
+http://nanoignite.click:80/296040024/F955v9452Y/376345
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
+http://nanoignite.click:80/296040024/F955v9452Y/666
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21292
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://beststorage4you.com:80/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
+http://nanoignite.click:80/296040024/F955v9452Y/664
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD²
+http://nanoignite.click:80/296040024/F955v9452Y/665
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://beststorage4you.com:80/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E SD
+http://nanoignite.click:80/296040024/F955v9452Y/663
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais FHD
+http://nanoignite.click:80/296040024/F955v9452Y/464
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais HD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais HD
+http://nanoignite.click:80/296040024/F955v9452Y/462
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais SD
+http://nanoignite.click:80/296040024/F955v9452Y/461
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC FHD
+http://nanoignite.click:80/296040024/F955v9452Y/671
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
+http://nanoignite.click:80/296040024/F955v9452Y/669
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC H265" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC H265
+http://nanoignite.click:80/296040024/F955v9452Y/670
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC SD
+http://nanoignite.click:80/296040024/F955v9452Y/668
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2602
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | 4K",Animal Planet UHD
+http://nanoignite.click:80/296040024/F955v9452Y/141261
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
+http://nanoignite.click:80/296040024/F955v9452Y/22305
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
+http://nanoignite.click:80/296040024/F955v9452Y/365234
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet SD
+http://nanoignite.click:80/296040024/F955v9452Y/365235
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2607
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 H265
+http://nanoignite.click:80/296040024/F955v9452Y/141262
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21222
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD
+http://nanoignite.click:80/296040024/F955v9452Y/367046
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 H265
+http://nanoignite.click:80/296040024/F955v9452Y/2606
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD " tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 SD 
+http://nanoignite.click:80/296040024/F955v9452Y/367047
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN FHD
+http://nanoignite.click:80/296040024/F955v9452Y/676
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://beststorage4you.com:80/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
+http://nanoignite.click:80/296040024/F955v9452Y/674
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN H265" tvg-logo="http://beststorage4you.com:80/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN H265
+http://nanoignite.click:80/296040024/F955v9452Y/675
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://beststorage4you.com:80/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN SD
+http://nanoignite.click:80/296040024/F955v9452Y/673
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BoaVontade.png" group-title="Canais |  Religiosos",Boa Vontade TV FHD
+http://nanoignite.click:80/296040024/F955v9452Y/373659
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BoaVontade.png" group-title="Canais |  Religiosos",Boa Vontade TV HD
+http://nanoignite.click:80/296040024/F955v9452Y/373660
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BoaVontade.png" group-title="Canais |  Religiosos",Boa Vontade TV SD
+http://nanoignite.click:80/296040024/F955v9452Y/373661
+#EXTINF:-1 tvg-id="Banddf.br" tvg-name="Band Brasilia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Brasilia FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255472
+#EXTINF:-1 tvg-id="Banddf.br" tvg-name="Band Brasilia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Brasilia HD
+http://nanoignite.click:80/296040024/F955v9452Y/255473
+#EXTINF:-1 tvg-id="Bandba.br" tvg-name="Band Bahia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Bahia HD
+http://nanoignite.click:80/296040024/F955v9452Y/286193
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="Band CE FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band CE FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255495
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="Band CE HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band CE HD
+http://nanoignite.click:80/296040024/F955v9452Y/255494
+#EXTINF:-1 tvg-id="Bandmais.br" tvg-name="Band Campinas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Campinas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255498
+#EXTINF:-1 tvg-id="Bandmais.br" tvg-name="Band Campinas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Campinas HD
+http://nanoignite.click:80/296040024/F955v9452Y/255500
+#EXTINF:-1 tvg-id="Bandmais.br" tvg-name="Band Campinas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Campinas SD
+http://nanoignite.click:80/296040024/F955v9452Y/255501
+#EXTINF:-1 tvg-id="Bandpr.br" tvg-name="Band Curitiba HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Curitiba HD
+http://nanoignite.click:80/296040024/F955v9452Y/255478
+#EXTINF:-1 tvg-id="Tvtaroba.br" tvg-name="Band Cascavel TV Taroba FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Cascavel TV Taroba FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255510
+#EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band MG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band MG FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255482
+#EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band MG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band MG HD
+http://nanoignite.click:80/296040024/F955v9452Y/255483
+#EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band MG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band MG SD
+http://nanoignite.click:80/296040024/F955v9452Y/255484
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD
+http://nanoignite.click:80/296040024/F955v9452Y/469
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News H265" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News H265
+http://nanoignite.click:80/296040024/F955v9452Y/118883
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD
+http://nanoignite.click:80/296040024/F955v9452Y/467
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | 4K",Band News UHD
+http://nanoignite.click:80/296040024/F955v9452Y/468
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News SD
+http://nanoignite.click:80/296040024/F955v9452Y/466
+#EXTINF:-1 tvg-id="Bandrn.br" tvg-name="Band RN - Natal HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band RN - Natal HD
+http://nanoignite.click:80/296040024/F955v9452Y/255509
+#EXTINF:-1 tvg-id="Bandpr.br" tvg-name="Band PR HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band PR HD
+http://nanoignite.click:80/296040024/F955v9452Y/286194
+#EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255474
+#EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ HD
+http://nanoignite.click:80/296040024/F955v9452Y/255475
+#EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ SD
+http://nanoignite.click:80/296040024/F955v9452Y/255477
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Band RS FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band RS FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255479
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Band RS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band RS HD
+http://nanoignite.click:80/296040024/F955v9452Y/255480
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Band RS SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band RS SD
+http://nanoignite.click:80/296040024/F955v9452Y/255481
+#EXTINF:-1 tvg-id="Bandpe.br" tvg-name="Band Tribuna Recife HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Tribuna Recife HD
+http://nanoignite.click:80/296040024/F955v9452Y/255508
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band Uberlandia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Uberlandia FHD
+http://nanoignite.click:80/296040024/F955v9452Y/255505
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band Uberlandia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BAND.png" group-title=" Canais | Band",Band Uberlandia HD
+http://nanoignite.click:80/296040024/F955v9452Y/255506
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS FHD
+http://nanoignite.click:80/296040024/F955v9452Y/376504
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS HD
+http://nanoignite.click:80/296040024/F955v9452Y/376503
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS SD
+http://nanoignite.click:80/296040024/F955v9452Y/376502
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil FHD
+http://nanoignite.click:80/296040024/F955v9452Y/146
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil HD
+http://nanoignite.click:80/296040024/F955v9452Y/145
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony FHD
+http://nanoignite.click:80/296040024/F955v9452Y/702
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21229
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
+http://nanoignite.click:80/296040024/F955v9452Y/700
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony H265
+http://nanoignite.click:80/296040024/F955v9452Y/701
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
+http://nanoignite.click:80/296040024/F955v9452Y/699
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network FHD
+http://nanoignite.click:80/296040024/F955v9452Y/352
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21230
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
+http://nanoignite.click:80/296040024/F955v9452Y/351
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network H265
+http://nanoignite.click:80/296040024/F955v9452Y/367317
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
+http://nanoignite.click:80/296040024/F955v9452Y/350
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito FHD
+http://nanoignite.click:80/296040024/F955v9452Y/110683
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito UHD
+http://nanoignite.click:80/296040024/F955v9452Y/368110
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito HD
+http://nanoignite.click:80/296040024/F955v9452Y/110684
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito H265
+http://nanoignite.click:80/296040024/F955v9452Y/368111
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 1" tvg-logo="http://beststorage4you.com:/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 1
+http://nanoignite.click:80/296040024/F955v9452Y/18253
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 2" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 2
+http://nanoignite.click:80/296040024/F955v9452Y/18254
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 3" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 3
+http://nanoignite.click:80/296040024/F955v9452Y/18255
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 4" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 4
+http://nanoignite.click:80/296040024/F955v9452Y/18256
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 5" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 5
+http://nanoignite.click:80/296040024/F955v9452Y/18257
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 6" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 6
+http://nanoignite.click:80/296040024/F955v9452Y/18258
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 7" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 7
+http://nanoignite.click:80/296040024/F955v9452Y/18259
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 8" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 8
+http://nanoignite.click:80/296040024/F955v9452Y/18260
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 9" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 9
+http://nanoignite.click:80/296040024/F955v9452Y/18261
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax FHD
+http://nanoignite.click:80/296040024/F955v9452Y/682
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21231
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD
+http://nanoignite.click:80/296040024/F955v9452Y/680
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax H265
+http://nanoignite.click:80/296040024/F955v9452Y/681
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax SD
+http://nanoignite.click:80/296040024/F955v9452Y/679
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD
+http://nanoignite.click:80/296040024/F955v9452Y/474
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | 4K",CNN Brasil UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21353
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil H265
+http://nanoignite.click:80/296040024/F955v9452Y/380909
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
+http://nanoignite.click:80/296040024/F955v9452Y/472
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil SD
+http://nanoignite.click:80/296040024/F955v9452Y/471
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional  HD
+http://nanoignite.click:80/296040024/F955v9452Y/118886
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional SD
+http://nanoignite.click:80/296040024/F955v9452Y/118887
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil FHD
+http://nanoignite.click:80/296040024/F955v9452Y/527505
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil HD
+http://nanoignite.click:80/296040024/F955v9452Y/527506
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil SD
+http://nanoignite.click:80/296040024/F955v9452Y/527507
+#EXTINF:-1 tvg-id="Timescnbc.br" tvg-name="CNBC Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNBC Brasil HD
+http://nanoignite.click:80/296040024/F955v9452Y/527504
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2612
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! H265
+http://nanoignite.click:80/296040024/F955v9452Y/141263
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! HD
+http://nanoignite.click:80/296040024/F955v9452Y/367045
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! H265
+http://nanoignite.click:80/296040024/F955v9452Y/2611
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! SD
+http://nanoignite.click:80/296040024/F955v9452Y/2609
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Canção Nova HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CANCAONOVA.png" group-title="Canais |  Religiosos",Canção Nova HD
+http://nanoignite.click:80/296040024/F955v9452Y/240805
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Canção Nova FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CANCAONOVA.png" group-title="Canais |  Religiosos",Canção Nova FHD
+http://nanoignite.click:80/296040024/F955v9452Y/240806
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Baiano 1" tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Baiano 1
+http://nanoignite.click:80/296040024/F955v9452Y/301461
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Goiano 1" tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Goiano 1
+http://nanoignite.click:80/296040024/F955v9452Y/301474
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Paranaense 1 HD" tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Paranaense 1 HD
+http://nanoignite.click:80/296040024/F955v9452Y/301480
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Paranaense 2 HD" tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Paranaense 2 HD
+http://nanoignite.click:80/296040024/F955v9452Y/301481
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Paranaense 3 HD" tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Paranaense 3 HD
+http://nanoignite.click:80/296040024/F955v9452Y/301482
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Paraibano 1 HD" tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Paraibano 1 HD
+http://nanoignite.click:80/296040024/F955v9452Y/301483
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Pernambucano " tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Pernambucano 
+http://nanoignite.click:80/296040024/F955v9452Y/301487
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Sergipano 1" tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Sergipano 1
+http://nanoignite.click:80/296040024/F955v9452Y/301493
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="Campeonato Sergipano 2" tvg-logo="http://beststorage4you.com/logoscanais/estaduais.png" group-title=" Canais | Campeonatos ",Campeonato Sergipano 2
+http://nanoignite.click:80/296040024/F955v9452Y/301494
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary (CHINA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/250px-CGTN.png" group-title="Canais | Documentarios",CGTN Documentary (CHINA)
+http://nanoignite.click:80/296040024/F955v9452Y/367044
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2577
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | 4K",Discovery Channel UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21338
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel HD
+http://nanoignite.click:80/296040024/F955v9452Y/2575
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel H265" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel H265
+http://nanoignite.click:80/296040024/F955v9452Y/2576
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel SD
+http://nanoignite.click:80/296040024/F955v9452Y/2574
+#EXTINF:-1 tvg-id="Discoveryhomehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="http://beststorage4you.com/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home & Health FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2572
+#EXTINF:-1 tvg-id="Discoveryhomehealth.br" tvg-name="Discovery Home & Health UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | 4K",Discovery Home & Health UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21295
+#EXTINF:-1 tvg-id="Discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://beststorage4you.com/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home & Health HD
+http://nanoignite.click:80/296040024/F955v9452Y/2570
+#EXTINF:-1 tvg-id="Discoveryhomehealth.br" tvg-name="Discovery Home & Health H265" tvg-logo="http://beststorage4you.com/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home & Health H265
+http://nanoignite.click:80/296040024/F955v9452Y/2571
+#EXTINF:-1 tvg-id="Discoveryhomehealth.br" tvg-name="Disc. Home & Health SD" tvg-logo="http://beststorage4you.com/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home & Health SD
+http://nanoignite.click:80/296040024/F955v9452Y/2569
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Discovery Science FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2582
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Discovery Science UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | 4K",Discovery Science UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21297
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Discovery Science HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science HD
+http://nanoignite.click:80/296040024/F955v9452Y/2580
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Discovery Science H265" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science H265
+http://nanoignite.click:80/296040024/F955v9452Y/2581
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Discovery Science SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science SD
+http://nanoignite.click:80/296040024/F955v9452Y/2579
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2587
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater HD
+http://nanoignite.click:80/296040024/F955v9452Y/2585
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Discovery Theater H265" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater H265
+http://nanoignite.click:80/296040024/F955v9452Y/2586
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater SD
+http://nanoignite.click:80/296040024/F955v9452Y/2584
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2592
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo HD
+http://nanoignite.click:80/296040024/F955v9452Y/2590
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo SD
+http://nanoignite.click:80/296040024/F955v9452Y/2589
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Discovery World FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2597
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Discovery World UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYWORLD.png" group-title="Canais | 4K",Discovery World UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21300
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Discovery World HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World HD
+http://nanoignite.click:80/296040024/F955v9452Y/2595
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Discovery World H265" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World H265
+http://nanoignite.click:80/296040024/F955v9452Y/2596
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Discovery World SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World SD
+http://nanoignite.click:80/296040024/F955v9452Y/2594
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids FHD
+http://nanoignite.click:80/296040024/F955v9452Y/364
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids HD
+http://nanoignite.click:80/296040024/F955v9452Y/363
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids H265" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids H265
+http://nanoignite.click:80/296040024/F955v9452Y/367320
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://beststorage4you.com:80/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids SD
+http://nanoignite.click:80/296040024/F955v9452Y/362
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/E!.png" group-title="Canais |  Variedades ",E! FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2472
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/E!.png" group-title="Canais |  Variedades ",E! UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21313
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://beststorage4you.com:80/logoscanais/E!.png" group-title="Canais |  Variedades ",E! HD
+http://nanoignite.click:80/296040024/F955v9452Y/2471
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://beststorage4you.com:80/logoscanais/E!.png" group-title="Canais |  Variedades ",E! SD
+http://nanoignite.click:80/296040024/F955v9452Y/2470
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/FASHIONTV.png" group-title="Canais |  Variedades ",Fashion TV FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2476
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2480
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21237
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network HD" tvg-logo="http://beststorage4you.com:80/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network HD
+http://nanoignite.click:80/296040024/F955v9452Y/2479
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network SD" tvg-logo="http://beststorage4you.com:80/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network SD
+http://nanoignite.click:80/296040024/F955v9452Y/2478
+#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral FHD
+http://nanoignite.click:80/296040024/F955v9452Y/112631
+#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral HD
+http://nanoignite.click:80/296040024/F955v9452Y/112632
+#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Alto Litoral SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral SD
+http://nanoignite.click:80/296040024/F955v9452Y/112633
+#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV dos Vales FHD
+http://nanoignite.click:80/296040024/F955v9452Y/117420
+#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV dos Vales HD
+http://nanoignite.click:80/296040024/F955v9452Y/117421
+#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="Globo Inter TV dos Vales  SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV dos Vales  SD
+http://nanoignite.click:80/296040024/F955v9452Y/117422
+#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Serra Mar FHD
+http://nanoignite.click:80/296040024/F955v9452Y/230061
+#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Serra Mar HD
+http://nanoignite.click:80/296040024/F955v9452Y/230060
+#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Serra Mar SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Serra Mar SD
+http://nanoignite.click:80/296040024/F955v9452Y/230059
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Cruz Alta FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Cruz Alta FHD
+http://nanoignite.click:80/296040024/F955v9452Y/309588
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Cruz Alta HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Cruz Alta HD
+http://nanoignite.click:80/296040024/F955v9452Y/309589
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Foz Do Iguaçu FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Foz Do Iguaçu FHD
+http://nanoignite.click:80/296040024/F955v9452Y/371599
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Foz Do Iguaçu HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Foz Do Iguaçu HD
+http://nanoignite.click:80/296040024/F955v9452Y/371600
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Foz Do Iguaçu SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Foz Do Iguaçu SD
+http://nanoignite.click:80/296040024/F955v9452Y/371601
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT FHD
+http://nanoignite.click:80/296040024/F955v9452Y/377238
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT UHD
+http://nanoignite.click:80/296040024/F955v9452Y/377237
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT HD
+http://nanoignite.click:80/296040024/F955v9452Y/377239
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT SD
+http://nanoignite.click:80/296040024/F955v9452Y/377240
+#EXTINF:-1 tvg-id="" tvg-name="Gloob UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOB.png" group-title="Canais | Infantil",Gloob UHD
+http://nanoignite.click:80/296040024/F955v9452Y/377227
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOB.png" group-title="Canais | Infantil",Gloob FHD
+http://nanoignite.click:80/296040024/F955v9452Y/377228
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOB.png" group-title="Canais | Infantil",Gloob HD
+http://nanoignite.click:80/296040024/F955v9452Y/377229
+#EXTINF:-1 tvg-id="" tvg-name="Gloob H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOB.png" group-title="Canais | Infantil",Gloob H265
+http://nanoignite.click:80/296040024/F955v9452Y/377230
+#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOB.png" group-title="Canais | Infantil",Gloob SD
+http://nanoignite.click:80/296040024/F955v9452Y/377231
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOBINHO.png" group-title="Canais | Infantil",Gloobinho FHD
+http://nanoignite.click:80/296040024/F955v9452Y/377232
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOBINHO.png" group-title="Canais | Infantil",Gloobinho UHD
+http://nanoignite.click:80/296040024/F955v9452Y/377233
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOBINHO.png" group-title="Canais | Infantil",Gloobinho HD
+http://nanoignite.click:80/296040024/F955v9452Y/377234
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOBINHO.png" group-title="Canais | Infantil",Gloobinho H265
+http://nanoignite.click:80/296040024/F955v9452Y/377235
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOOBINHO.png" group-title="Canais | Infantil",Gloobinho SD
+http://nanoignite.click:80/296040024/F955v9452Y/377236
+#EXTINF:-1 tvg-id="" tvg-name="Globo Pernambuco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Pernambuco HD
+http://nanoignite.click:80/296040024/F955v9452Y/538100
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2452
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia HD
+http://nanoignite.click:80/296040024/F955v9452Y/2451
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia H265
+http://nanoignite.click:80/296040024/F955v9452Y/365115
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia SD
+http://nanoignite.click:80/296040024/F955v9452Y/2450
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2376
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ HD
+http://nanoignite.click:80/296040024/F955v9452Y/2374
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ H265
+http://nanoignite.click:80/296040024/F955v9452Y/2375
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ SD
+http://nanoignite.click:80/296040024/F955v9452Y/2373
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2389
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas HD
+http://nanoignite.click:80/296040024/F955v9452Y/2388
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas SD
+http://nanoignite.click:80/296040024/F955v9452Y/2387
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Central Sao Carlos FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Central Sao Carlos FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2392
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Central Sao Carlos HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Central Sao Carlos HD
+http://nanoignite.click:80/296040024/F955v9452Y/2391
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Ribeirão Preto FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2386
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto HD
+http://nanoignite.click:80/296040024/F955v9452Y/2385
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto SD
+http://nanoignite.click:80/296040024/F955v9452Y/2384
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2383
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas HD
+http://nanoignite.click:80/296040024/F955v9452Y/2382
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas SD
+http://nanoignite.click:80/296040024/F955v9452Y/2381
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2437
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi HD
+http://nanoignite.click:80/296040024/F955v9452Y/2436
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi SD
+http://nanoignite.click:80/296040024/F955v9452Y/2435
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2380
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas HD
+http://nanoignite.click:80/296040024/F955v9452Y/2378
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas SD
+http://nanoignite.click:80/296040024/F955v9452Y/2377
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2428
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste HD
+http://nanoignite.click:80/296040024/F955v9452Y/2427
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste SD
+http://nanoignite.click:80/296040024/F955v9452Y/2426
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo INTER TV Grande Minas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo INTER TV Grande Minas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/274514
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo INTER TV Grande Minas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo INTER TV Grande Minas HD
+http://nanoignite.click:80/296040024/F955v9452Y/274515
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2290
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau H265
+http://nanoignite.click:80/296040024/F955v9452Y/360674
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau HD
+http://nanoignite.click:80/296040024/F955v9452Y/2289
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau SD
+http://nanoignite.click:80/296040024/F955v9452Y/2288
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2458
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste HD
+http://nanoignite.click:80/296040024/F955v9452Y/2457
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste SD
+http://nanoignite.click:80/296040024/F955v9452Y/2456
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2310
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco HD
+http://nanoignite.click:80/296040024/F955v9452Y/2309
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco SD
+http://nanoignite.click:80/296040024/F955v9452Y/2308
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2296
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma HD
+http://nanoignite.click:80/296040024/F955v9452Y/2295
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma SD
+http://nanoignite.click:80/296040024/F955v9452Y/2294
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2302
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis HD
+http://nanoignite.click:80/296040024/F955v9452Y/2301
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis SD
+http://nanoignite.click:80/296040024/F955v9452Y/2300
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2305
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville HD
+http://nanoignite.click:80/296040024/F955v9452Y/2304
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville SD
+http://nanoignite.click:80/296040024/F955v9452Y/2303
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV POA FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2313
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV POA HD
+http://nanoignite.click:80/296040024/F955v9452Y/2312
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV POA SD
+http://nanoignite.click:80/296040024/F955v9452Y/2311
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Uruguaiana HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Uruguaiana HD
+http://nanoignite.click:80/296040024/F955v9452Y/389118
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Uruguaiana SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Uruguaiana SD
+http://nanoignite.click:80/296040024/F955v9452Y/389119
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Caxias do Sul FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2307
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Caxias do Sul HD
+http://nanoignite.click:80/296040024/F955v9452Y/2306
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Caxias do Sul SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Caxias do Sul SD
+http://nanoignite.click:80/296040024/F955v9452Y/360931
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Passo Fundo FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2331
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Passo Fundo HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo HD
+http://nanoignite.click:80/296040024/F955v9452Y/2330
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Passo Fundo SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo SD
+http://nanoignite.click:80/296040024/F955v9452Y/2329
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2328
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas HD
+http://nanoignite.click:80/296040024/F955v9452Y/2327
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas SD
+http://nanoignite.click:80/296040024/F955v9452Y/2326
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2334
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria HD
+http://nanoignite.click:80/296040024/F955v9452Y/2333
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Santa Maria SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria SD
+http://nanoignite.click:80/296040024/F955v9452Y/2332
+#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2355
+#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista HD
+http://nanoignite.click:80/296040024/F955v9452Y/2354
+#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista SD
+http://nanoignite.click:80/296040024/F955v9452Y/2353
+#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2358
+#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus HD
+http://nanoignite.click:80/296040024/F955v9452Y/2357
+#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus SD
+http://nanoignite.click:80/296040024/F955v9452Y/2356
+#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2361
+#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho HD
+http://nanoignite.click:80/296040024/F955v9452Y/2360
+#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho SD
+http://nanoignite.click:80/296040024/F955v9452Y/2359
+#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2364
+#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco HD
+http://nanoignite.click:80/296040024/F955v9452Y/2363
+#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco SD
+http://nanoignite.click:80/296040024/F955v9452Y/2362
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Cascavel FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC Cascavel FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2299
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Cascavel HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC Cascavel HD
+http://nanoignite.click:80/296040024/F955v9452Y/2298
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Cascavel SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC Cascavel SD
+http://nanoignite.click:80/296040024/F955v9452Y/2297
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Londrina FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Londrina FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2346
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Londrina HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Londrina HD
+http://nanoignite.click:80/296040024/F955v9452Y/2345
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Londrina SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Londrina SD
+http://nanoignite.click:80/296040024/F955v9452Y/2344
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Curitiba FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Curitiba FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2293
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Curitiba HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Curitiba HD
+http://nanoignite.click:80/296040024/F955v9452Y/2292
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Curitiba SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Curitiba SD
+http://nanoignite.click:80/296040024/F955v9452Y/2291
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Maringa FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Maringa FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2349
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Maringa HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Maringa HD
+http://nanoignite.click:80/296040024/F955v9452Y/2348
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Maringa H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Maringa H265
+http://nanoignite.click:80/296040024/F955v9452Y/362047
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Maringa SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Maringa SD
+http://nanoignite.click:80/296040024/F955v9452Y/2347
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Paranavai FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Paranavai FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2322
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Paranavai HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Paranavai HD
+http://nanoignite.click:80/296040024/F955v9452Y/2321
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Paranavai SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Paranavai SD
+http://nanoignite.click:80/296040024/F955v9452Y/2320
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Ponta Grossa FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Ponta Grossa FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2325
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Ponta Grossa HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Ponta Grossa HD
+http://nanoignite.click:80/296040024/F955v9452Y/2324
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC TV Ponta Grossa SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC TV Ponta Grossa SD
+http://nanoignite.click:80/296040024/F955v9452Y/2323
+#EXTINF:-1 tvg-id=".br" tvg-name="Globo TV Asa Branca FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca FHD
+http://nanoignite.click:80/296040024/F955v9452Y/166720
+#EXTINF:-1 tvg-id=".br" tvg-name="Globo TV Asa Branca HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca HD
+http://nanoignite.click:80/296040024/F955v9452Y/166721
+#EXTINF:-1 tvg-id=".br" tvg-name="Globo TV Asa Branca SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca SD
+http://nanoignite.click:80/296040024/F955v9452Y/166722
+#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Anapolis HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Anapolis HD
+http://nanoignite.click:80/296040024/F955v9452Y/389370
+#EXTINF:-1 tvg-id="Globoto.br" tvg-name="Globo TV Anhanguera Palmas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Palmas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/385607
+#EXTINF:-1 tvg-id="Globoto.br" tvg-name="Globo TV Anhanguera Palmas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Palmas SD
+http://nanoignite.click:80/296040024/F955v9452Y/385608
+#EXTINF:-1 tvg-id="Globoto.br" tvg-name="Globo TV Anhanguera Palmas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Palmas HD
+http://nanoignite.click:80/296040024/F955v9452Y/385609
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2425
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia HD
+http://nanoignite.click:80/296040024/F955v9452Y/2424
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia SD
+http://nanoignite.click:80/296040024/F955v9452Y/2423
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco FHD " tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco FHD 
+http://nanoignite.click:80/296040024/F955v9452Y/286195
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco HD
+http://nanoignite.click:80/296040024/F955v9452Y/286196
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco H265
+http://nanoignite.click:80/296040024/F955v9452Y/362896
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="Globo TV Cabo branco SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Cabo branco SD
+http://nanoignite.click:80/296040024/F955v9452Y/286197
+#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina FHD
+http://nanoignite.click:80/296040024/F955v9452Y/215610
+#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina HD
+http://nanoignite.click:80/296040024/F955v9452Y/215611
+#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina SD
+http://nanoignite.click:80/296040024/F955v9452Y/215612
+#EXTINF:-1 tvg-id="Globomt.br" tvg-name="Globo TV Centro America FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Centro America FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2455
+#EXTINF:-1 tvg-id="Globomt.br" tvg-name="Globo TV Centro America HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Centro America HD
+http://nanoignite.click:80/296040024/F955v9452Y/2454
+#EXTINF:-1 tvg-id="Globomt.br" tvg-name="Globo TV Centro America SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Centro America SD
+http://nanoignite.click:80/296040024/F955v9452Y/2453
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario Mogi das Cruzes FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Diario Mogi das Cruzes FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2404
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario Mogi das Cruzes HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Diario Mogi das Cruzes HD
+http://nanoignite.click:80/296040024/F955v9452Y/2403
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario Mogi das Cruzes SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Diario Mogi das Cruzes SD
+http://nanoignite.click:80/296040024/F955v9452Y/2402
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Diario FHD
+http://nanoignite.click:80/296040024/F955v9452Y/171
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Diario HD
+http://nanoignite.click:80/296040024/F955v9452Y/170
+#EXTINF:-1 tvg-id="Tvgranderio.br" tvg-name="GLOBO TV GRANDE RIO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",GLOBO TV GRANDE RIO HD
+http://nanoignite.click:80/296040024/F955v9452Y/371788
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2440
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas HD
+http://nanoignite.click:80/296040024/F955v9452Y/2439
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Alagoas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas SD
+http://nanoignite.click:80/296040024/F955v9452Y/2438
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Sul FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo TV Gazeta Sul FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2319
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Sul HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo TV Gazeta Sul HD
+http://nanoignite.click:80/296040024/F955v9452Y/2318
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Sul SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo TV Gazeta Sul SD
+http://nanoignite.click:80/296040024/F955v9452Y/2317
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Vitoria FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Gazeta Vitoria FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2395
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Gazeta Vitoria HD
+http://nanoignite.click:80/296040024/F955v9452Y/2394
+#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Vitoria SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Gazeta Vitoria SD
+http://nanoignite.click:80/296040024/F955v9452Y/2393
+#EXTINF:-1 tvg-id="AGrandeconquista.br" tvg-name="Globo TV Fronteira Presidente Prudente FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Fronteira Presidente Prudente FHD
+http://nanoignite.click:80/296040024/F955v9452Y/239899
+#EXTINF:-1 tvg-id="AGrandeconquista.br" tvg-name="Globo TV Fronteira Presidente Prudente HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Fronteira Presidente Prudente HD
+http://nanoignite.click:80/296040024/F955v9452Y/239900
+#EXTINF:-1 tvg-id="1" tvg-name="Globo TV Fronteira Presidente Prudente SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Fronteira Presidente Prudente SD
+http://nanoignite.click:80/296040024/F955v9452Y/239901
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integração Araxá FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integração Araxá FHD
+http://nanoignite.click:80/296040024/F955v9452Y/389371
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integração Araxá HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integração Araxá HD
+http://nanoignite.click:80/296040024/F955v9452Y/389372
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integração Araxá SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integração Araxá SD
+http://nanoignite.click:80/296040024/F955v9452Y/389373
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberaba FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberaba FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2401
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberaba HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberaba HD
+http://nanoignite.click:80/296040024/F955v9452Y/2400
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberaba SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberaba SD
+http://nanoignite.click:80/296040024/F955v9452Y/2399
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberlandia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberlandia FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2410
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberlandia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberlandia HD
+http://nanoignite.click:80/296040024/F955v9452Y/2409
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberlandia SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberlandia SD
+http://nanoignite.click:80/296040024/F955v9452Y/2408
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Juiz de Fora FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Juiz de Fora FHD
+http://nanoignite.click:80/296040024/F955v9452Y/234852
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Juiz de Fora HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Juiz de Fora HD
+http://nanoignite.click:80/296040024/F955v9452Y/234853
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Juiz de Fora SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Juiz de Fora SD
+http://nanoignite.click:80/296040024/F955v9452Y/234854
+#EXTINF:-1 tvg-id="Globopa.br" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo TV Liberal Belem FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2367
+#EXTINF:-1 tvg-id="Globopa.br" tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo TV Liberal Belem HD
+http://nanoignite.click:80/296040024/F955v9452Y/2366
+#EXTINF:-1 tvg-id="Globopa.br" tvg-name="Globo TV Liberal Belem SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo TV Liberal Belem SD
+http://nanoignite.click:80/296040024/F955v9452Y/2365
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2446
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais HD
+http://nanoignite.click:80/296040024/F955v9452Y/2445
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais SD
+http://nanoignite.click:80/296040024/F955v9452Y/2444
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis FHD
+http://nanoignite.click:80/296040024/F955v9452Y/518709
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis HD
+http://nanoignite.click:80/296040024/F955v9452Y/518710
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis SD
+http://nanoignite.click:80/296040024/F955v9452Y/518711
+#EXTINF:-1 tvg-id="Globoms.br" tvg-name="Globo TV Morena FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Morena FHD
+http://nanoignite.click:80/296040024/F955v9452Y/274984
+#EXTINF:-1 tvg-id="Globoms.br" tvg-name="Globo TV Morena HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Morena HD
+http://nanoignite.click:80/296040024/F955v9452Y/274986
+#EXTINF:-1 tvg-id="Globoms.br" tvg-name="Globo TV Morena SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Morena SD
+http://nanoignite.click:80/296040024/F955v9452Y/274988
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="Globo TV Rio Sul FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Rio Sul FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2337
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Rio Sul HD
+http://nanoignite.click:80/296040024/F955v9452Y/2336
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="Globo TV Rio Sul SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Rio Sul SD
+http://nanoignite.click:80/296040024/F955v9452Y/2335
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Santa Cruz FHD
+http://nanoignite.click:80/296040024/F955v9452Y/208574
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Santa Cruz HD
+http://nanoignite.click:80/296040024/F955v9452Y/208575
+#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2443
+#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe HD
+http://nanoignite.click:80/296040024/F955v9452Y/2442
+#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe SD
+http://nanoignite.click:80/296040024/F955v9452Y/2441
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Subae FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae FHD
+http://nanoignite.click:80/296040024/F955v9452Y/390951
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Subae  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae  HD
+http://nanoignite.click:80/296040024/F955v9452Y/2314
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Subae SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae SD
+http://nanoignite.click:80/296040024/F955v9452Y/2315
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2431
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste HD
+http://nanoignite.click:80/296040024/F955v9452Y/2430
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste SD
+http://nanoignite.click:80/296040024/F955v9452Y/2429
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="Globo TV TEM Bauru FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Bauru FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2419
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="Globo TV TEM Bauru HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Bauru HD
+http://nanoignite.click:80/296040024/F955v9452Y/2418
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="Globo TV TEM Bauru SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Bauru SD
+http://nanoignite.click:80/296040024/F955v9452Y/2417
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Itapetininga HD
+http://nanoignite.click:80/296040024/F955v9452Y/2406
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="Globo TV TEM Itapetininga SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Itapetininga SD
+http://nanoignite.click:80/296040024/F955v9452Y/2405
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="Globo TV TEM Sao Jose do Rio Preto FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sao Jose do Rio Preto FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2398
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="Globo TV TEM Sao Jose do Rio Preto HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sao Jose do Rio Preto HD
+http://nanoignite.click:80/296040024/F955v9452Y/2397
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="Globo TV TEM Sao Jose do Rio Preto SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sao Jose do Rio Preto SD
+http://nanoignite.click:80/296040024/F955v9452Y/2396
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="Globo TV TEM Sorocaba FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sorocaba FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2340
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sorocaba HD
+http://nanoignite.click:80/296040024/F955v9452Y/2339
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="Globo TV TEM Sorocaba SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sorocaba SD
+http://nanoignite.click:80/296040024/F955v9452Y/2338
+#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Tribuna Santos FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2343
+#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Tribuna Santos HD
+http://nanoignite.click:80/296040024/F955v9452Y/2342
+#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Tribuna Santos SD
+http://nanoignite.click:80/296040024/F955v9452Y/2341
+#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda S J Campos FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda S J Campos FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2422
+#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda S J Campos HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda S J Campos HD
+http://nanoignite.click:80/296040024/F955v9452Y/2421
+#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda S J Campos SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda S J Campos SD
+http://nanoignite.click:80/296040024/F955v9452Y/2420
+#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda Taubate FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda Taubate FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2413
+#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda Taubate HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda Taubate HD
+http://nanoignite.click:80/296040024/F955v9452Y/2412
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="Globo TV Verdes Mares Fortaleza CE HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Fortaleza CE HD
+http://nanoignite.click:80/296040024/F955v9452Y/2434
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="Globo TV Verdes Mares Fortaleza CE FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Fortaleza CE FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2433
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="Globo TV Verdes Mares Fortaleza CE SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Fortaleza CE SD
+http://nanoignite.click:80/296040024/F955v9452Y/362064
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews FHD
+http://nanoignite.click:80/296040024/F955v9452Y/479
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21244
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews HD
+http://nanoignite.click:80/296040024/F955v9452Y/478
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews H265
+http://nanoignite.click:80/296040024/F955v9452Y/380908
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews SD
+http://nanoignite.click:80/296040024/F955v9452Y/477
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2627
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD
+http://nanoignite.click:80/296040024/F955v9452Y/2625
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV H265" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV H265
+http://nanoignite.click:80/296040024/F955v9452Y/2626
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV SD
+http://nanoignite.click:80/296040024/F955v9452Y/2624
+#EXTINF:-1 tvg-id="History.br" tvg-name="History FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2617
+#EXTINF:-1 tvg-id="History.br" tvg-name="History HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD
+http://nanoignite.click:80/296040024/F955v9452Y/2615
+#EXTINF:-1 tvg-id="History.br" tvg-name="History H265" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History H265
+http://nanoignite.click:80/296040024/F955v9452Y/2616
+#EXTINF:-1 tvg-id="History.br" tvg-name="History SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History SD
+http://nanoignite.click:80/296040024/F955v9452Y/2614
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2622
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21322
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 HD
+http://nanoignite.click:80/296040024/F955v9452Y/2620
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 SD
+http://nanoignite.click:80/296040024/F955v9452Y/2619
+#EXTINF:-1 tvg-id="Id.br" tvg-name="Discovery ID FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Discovery",Discovery ID FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2632
+#EXTINF:-1 tvg-id="Id.br" tvg-name="Discovery ID UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | 4K",Discovery ID UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21323
+#EXTINF:-1 tvg-id="Id.br" tvg-name="Discovery ID HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Discovery",Discovery ID HD
+http://nanoignite.click:80/296040024/F955v9452Y/2630
+#EXTINF:-1 tvg-id="Id.br" tvg-name="Discovery ID H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Discovery",Discovery ID H265
+http://nanoignite.click:80/296040024/F955v9452Y/2631
+#EXTINF:-1 tvg-id="Id.br" tvg-name="Discovery ID SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Discovery",Discovery ID SD
+http://nanoignite.click:80/296040024/F955v9452Y/2629
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News FHD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News FHD
+http://nanoignite.click:80/296040024/F955v9452Y/483
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News UHD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21221
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News HD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News HD
+http://nanoignite.click:80/296040024/F955v9452Y/482
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News H265" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News H265
+http://nanoignite.click:80/296040024/F955v9452Y/118890
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News SD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News SD
+http://nanoignite.click:80/296040024/F955v9452Y/481
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2488
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21252
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://beststorage4you.com:80/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime HD
+http://nanoignite.click:80/296040024/F955v9452Y/2487
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://beststorage4you.com:80/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime SD
+http://nanoignite.click:80/296040024/F955v9452Y/2486
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix FHD
+http://nanoignite.click:80/296040024/F955v9452Y/692
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | 4K",Megapix UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21257
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
+http://nanoignite.click:80/296040024/F955v9452Y/690
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix H265" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix H265
+http://nanoignite.click:80/296040024/F955v9452Y/691
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix SD
+http://nanoignite.click:80/296040024/F955v9452Y/689
+#EXTINF:-1 tvg-id="Modoviagem.br" tvg-name="Modo Viagem FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MODOVIAGEM.png" group-title="Canais |  Variedades ",Modo Viagem FHD
+http://nanoignite.click:80/296040024/F955v9452Y/89181
+#EXTINF:-1 tvg-id="Modoviagem.br" tvg-name="Modo Viagem HD" tvg-logo="http://beststorage4you.com:80/logoscanais/MODOVIAGEM.png" group-title="Canais |  Variedades ",Modo Viagem HD
+http://nanoignite.click:80/296040024/F955v9452Y/89182
+#EXTINF:-1 tvg-id="Modoviagem.br" tvg-name="Modo Viagem SD" tvg-logo="http://beststorage4you.com:80/logoscanais/MODOVIAGEM.png" group-title="Canais |  Variedades ",Modo Viagem SD
+http://nanoignite.click:80/296040024/F955v9452Y/89183
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Music Box Brazil FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MUSICBOXBRAZIL.png" group-title="Canais |  Variedades ",Music Box Brazil FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2520
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="NL: EUROSPORT 2 H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",NL: EUROSPORT 2 H265
+http://nanoignite.click:80/296040024/F955v9452Y/18026
+#EXTINF:-1 tvg-id="Tvpaieterno.br" tvg-name="Pai Eterno FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVPAIETERNO.png" group-title="Canais |  Religiosos",Pai Eterno FHD
+http://nanoignite.click:80/296040024/F955v9452Y/206
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="Polishop TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/POLISHOP.png" group-title="Canais |  Variedades ",Polishop TV HD
+http://nanoignite.click:80/296040024/F955v9452Y/2522
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News FHD
+http://nanoignite.click:80/296040024/F955v9452Y/488
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News HD
+http://nanoignite.click:80/296040024/F955v9452Y/486
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News H265" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News H265
+http://nanoignite.click:80/296040024/F955v9452Y/487
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News SD
+http://nanoignite.click:80/296040024/F955v9452Y/485
+#EXTINF:-1 tvg-id="Redegospel.br" tvg-name="Rede Gospel HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEGOSPEL.png" group-title="Canais |  Religiosos",Rede Gospel HD
+http://nanoignite.click:80/296040024/F955v9452Y/193
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEVIDA.png" group-title="Canais |  Religiosos",Rede Vida FHD
+http://nanoignite.click:80/296040024/F955v9452Y/198
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEVIDA.png" group-title="Canais |  Religiosos",Rede Vida HD
+http://nanoignite.click:80/296040024/F955v9452Y/197
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida H265" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEVIDA.png" group-title="Canais |  Religiosos",Rede Vida H265
+http://nanoignite.click:80/296040024/F955v9452Y/369200
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEVIDA.png" group-title="Canais |  Religiosos",Rede Vida SD
+http://nanoignite.click:80/296040024/F955v9452Y/196
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space FHD
+http://nanoignite.click:80/296040024/F955v9452Y/707
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21272
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
+http://nanoignite.click:80/296040024/F955v9452Y/705
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD²
+http://nanoignite.click:80/296040024/F955v9452Y/706
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space SD
+http://nanoignite.click:80/296040024/F955v9452Y/704
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal FHD
+http://nanoignite.click:80/296040024/F955v9452Y/713
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21276
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD
+http://nanoignite.click:80/296040024/F955v9452Y/711
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal H265" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal H265
+http://nanoignite.click:80/296040024/F955v9452Y/712
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal SD
+http://nanoignite.click:80/296040024/F955v9452Y/710
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="SYFY USA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY USA FHD
+http://nanoignite.click:80/296040024/F955v9452Y/718
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="SYFY HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY HD
+http://nanoignite.click:80/296040024/F955v9452Y/716
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="SYFY H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY H265
+http://nanoignite.click:80/296040024/F955v9452Y/717
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="SYFY SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY SD
+http://nanoignite.click:80/296040024/F955v9452Y/715
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD " tvg-logo="http://beststorage4you.com:80/logoscanais/TCM.png" group-title="Canais | Filmes & Series",TCM FHD 
+http://nanoignite.click:80/296040024/F955v9452Y/740
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC FHD
+http://nanoignite.click:80/296040024/F955v9452Y/728
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21349
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC HD
+http://nanoignite.click:80/296040024/F955v9452Y/726
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC HD²
+http://nanoignite.click:80/296040024/F955v9452Y/727
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC SD
+http://nanoignite.click:80/296040024/F955v9452Y/725
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT FHD
+http://nanoignite.click:80/296040024/F955v9452Y/733
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | 4K",TNT UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21285
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD
+http://nanoignite.click:80/296040024/F955v9452Y/731
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT H265
+http://nanoignite.click:80/296040024/F955v9452Y/732
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT SD
+http://nanoignite.click:80/296040024/F955v9452Y/730
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series FHD
+http://nanoignite.click:80/296040024/F955v9452Y/738
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series UHD
+http://nanoignite.click:80/296040024/F955v9452Y/21286
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD
+http://nanoignite.click:80/296040024/F955v9452Y/736
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series H265
+http://nanoignite.click:80/296040024/F955v9452Y/737
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series SD
+http://nanoignite.click:80/296040024/F955v9452Y/735
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Trace Brazuca FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TRACEBAZUCA.png" group-title="Canais |  Variedades ",Trace Brazuca FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2533
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Trace Brazuca HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TRACEBAZUCA.png" group-title="Canais |  Variedades ",Trace Brazuca HD
+http://nanoignite.click:80/296040024/F955v9452Y/2532
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Trace Brazuca SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TRACEBAZUCA.png" group-title="Canais |  Variedades ",Trace Brazuca SD
+http://nanoignite.click:80/296040024/F955v9452Y/2531
+#EXTINF:-1 tvg-id="Travelboxbr.br" tvg-name="Travel Box Brasil FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Tbb.png" group-title="Canais |  Variedades ",Travel Box Brasil FHD
+http://nanoignite.click:80/296040024/F955v9452Y/376353
+#EXTINF:-1 tvg-id="Travelboxbr.br" tvg-name="Travel Box Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Tbb.png" group-title="Canais |  Variedades ",Travel Box Brasil HD
+http://nanoignite.click:80/296040024/F955v9452Y/376354
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVAPARECIDA.png" group-title="Canais |  Religiosos",TV Aparecida FHD
+http://nanoignite.click:80/296040024/F955v9452Y/190
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVAPARECIDA.png" group-title="Canais | 4K",TV Aparecida UHD
+http://nanoignite.click:80/296040024/F955v9452Y/369197
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVAPARECIDA.png" group-title="Canais |  Religiosos",TV Aparecida HD
+http://nanoignite.click:80/296040024/F955v9452Y/189
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TVAPARECIDA.png" group-title="Canais |  Religiosos",TV Aparecida H265
+http://nanoignite.click:80/296040024/F955v9452Y/369198
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVAPARECIDA.png" group-title="Canais |  Religiosos",TV Aparecida SD
+http://nanoignite.click:80/296040024/F955v9452Y/188
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV Justica HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVJUSTICA.png" group-title="Canais |  Abertos",TV Justica HD
+http://nanoignite.click:80/296040024/F955v9452Y/177
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV Novo Tempo FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVNOVOTEMPO.png" group-title="Canais |  Religiosos",TV Novo Tempo FHD
+http://nanoignite.click:80/296040024/F955v9452Y/202
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVNOVOTEMPO.png" group-title="Canais |  Religiosos",TV Novo Tempo HD
+http://nanoignite.click:80/296040024/F955v9452Y/201
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV Novo Tempo H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TVNOVOTEMPO.png" group-title="Canais |  Religiosos",TV Novo Tempo H265
+http://nanoignite.click:80/296040024/F955v9452Y/369202
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVRATIMBUM.png" group-title="Canais | Infantil",TV Ra Tim Bum FHD
+http://nanoignite.click:80/296040024/F955v9452Y/376
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVRATIMBUM.png" group-title="Canais | Infantil",TV Ra Tim Bum HD
+http://nanoignite.click:80/296040024/F955v9452Y/375
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TVRATIMBUM.png" group-title="Canais | Infantil",TV Ra Tim Bum H265
+http://nanoignite.click:80/296040024/F955v9452Y/367325
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVRATIMBUM.png" group-title="Canais | Infantil",TV Ra Tim Bum SD
+http://nanoignite.click:80/296040024/F955v9452Y/374
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV FHD
+http://nanoignite.click:80/296040024/F955v9452Y/743
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV HD
+http://nanoignite.click:80/296040024/F955v9452Y/742
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV SD
+http://nanoignite.click:80/296040024/F955v9452Y/741
+#EXTINF:-1 tvg-id="Globoplaynovelas.br" tvg-name="Globo Play Novelas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Globo Play Novelas FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2537
+#EXTINF:-1 tvg-id="Globoplaynovelas.br" tvg-name="Globo Play Novelas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Globo Play Novelas HD
+http://nanoignite.click:80/296040024/F955v9452Y/2536
+#EXTINF:-1 tvg-id="Globoplaynovelas.br" tvg-name="Globo Play Novelas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Globo Play Novelas SD
+http://nanoignite.click:80/296040024/F955v9452Y/2535
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel FHD
+http://nanoignite.click:80/296040024/F955v9452Y/749
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel HD" tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD
+http://nanoignite.click:80/296040024/F955v9452Y/746
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel H265" tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel H265
+http://nanoignite.click:80/296040024/F955v9452Y/748
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel SD" tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel SD
+http://nanoignite.click:80/296040024/F955v9452Y/745
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/WOOHOO.png" group-title="Canais |  Variedades ",Woohoo FHD
+http://nanoignite.click:80/296040024/F955v9452Y/2541
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://beststorage4you.com:80/logoscanais/WOOHOO.png" group-title="Canais |  Variedades ",Woohoo HD
+http://nanoignite.click:80/296040024/F955v9452Y/2540
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo SD" tvg-logo="http://beststorage4you.com:80/logoscanais/WOOHOO.png" group-title="Canais |  Variedades ",Woohoo SD
+http://nanoignite.click:80/296040024/F955v9452Y/2539
+#EXTINF:-1 tvg-id="Saborearte.br" tvg-name="Sabor & Arte FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SABOR&ARTE.png" group-title="Canais |  Variedades ",Sabor & Arte FHD
+http://nanoignite.click:80/296040024/F955v9452Y/162353
+#EXTINF:-1 tvg-id="Saborearte.br" tvg-name="Sabor & Arte HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SABOR&ARTE.png" group-title="Canais |  Variedades ",Sabor & Arte HD
+http://nanoignite.click:80/296040024/F955v9452Y/162354
+#EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-name="TV Evangelizar HD" tvg-logo="https://play-lh.googleusercontent.com/ac3LlHPagi2A5c3nlZLBEM8ipoRos3dGtu58dDU9dYGr-58w73Y0c1R8PtRBCeivO4o" group-title="Canais |  Religiosos",TV Evangelizar HD
+http://nanoignite.click:80/296040024/F955v9452Y/186967
+#EXTINF:-1 tvg-id="Redesuper.br" tvg-name="Rede Super FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDESUPER.png" group-title="Canais |  Religiosos",Rede Super FHD
+http://nanoignite.click:80/296040024/F955v9452Y/214260
+#EXTINF:-1 tvg-id="Redesuper.br" tvg-name="Rede Super SD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDESUPER.png" group-title="Canais |  Religiosos",Rede Super SD
+http://nanoignite.click:80/296040024/F955v9452Y/369203
+#EXTINF:-1 tvg-id="Redesuper.br" tvg-name="Rede Super HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDESUPER.png" group-title="Canais |  Religiosos",Rede Super HD
+http://nanoignite.click:80/296040024/F955v9452Y/214261
+#EXTINF:-1 tvg-id="Redeseculo21.br" tvg-name="Rede Seculo 21 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDESECULO21.png" group-title="Canais |  Religiosos",Rede Seculo 21 HD
+http://nanoignite.click:80/296040024/F955v9452Y/216621
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Rede CNT FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNT.png" group-title="Canais |  Religiosos",Rede CNT FHD
+http://nanoignite.click:80/296040024/F955v9452Y/234481
+#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="Rede Familia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEF.png" group-title="Canais |  Abertos",Rede Familia FHD
+http://nanoignite.click:80/296040024/F955v9452Y/264927
+#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="Rede Familia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDEF.png" group-title="Canais |  Abertos",Rede Familia HD
+http://nanoignite.click:80/296040024/F955v9452Y/264928
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="Rede TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV FHD
+http://nanoignite.click:80/296040024/F955v9452Y/80170
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="Rede TV H265" tvg-logo="http://beststorage4you.com:80/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV H265
+http://nanoignite.click:80/296040024/F955v9452Y/364676
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="Rede TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV HD
+http://nanoignite.click:80/296040024/F955v9452Y/80172
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="Rede TV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV SD
+http://nanoignite.click:80/296040024/F955v9452Y/80173
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="NHK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NHKWORLDJAPAN.png" group-title="Canais | Noticias",NHK HD
+http://nanoignite.click:80/296040024/F955v9452Y/234279
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Sporty Net 1 HD" tvg-logo="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg" group-title="Canais | Esportes",Sporty Net 1 HD
+http://nanoignite.click:80/296040024/F955v9452Y/301420
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Sporty Net 2 HD" tvg-logo="https://www.b
