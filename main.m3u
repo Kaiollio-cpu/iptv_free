@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Telecine Action (1080p)
 http://46.151.196.223:14326/
+#EXTINF:-1, TV Cultura (720p)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
