@@ -1,27 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="aparecida.br" tvg-name="TV Aparecida" tvg-logo="https://logocanais.pics/imagens/aparecida.png" group-title="Canais Abertos",TV Aparecida
-http://45.162.64.114/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://logocanais.pics/imagens/tvbrasil.png" group-title="Canais Abertos",TV Brasil
-http://45.162.64.114/TV_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://logocanais.pics/imagens/tvcultura.png" group-title="Canais Abertos",TV Cultura
-http://45.162.64.114/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="cazetv.br" tvg-name="Caze TV" tvg-logo="https://logocanais.pics/imagens/cazetv.webp" group-title="Esportes",Caze TV
-http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura" tvg-logo="https://logocanais.pics/imagens/futura.png" group-title="Documentários",Futura
-http://170.83.49.66:8083/FUTURAHD/index.m3u8
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+" tvg-logo="https://logocanais.pics/imagens/agromais.png" group-title="Notícias",Agro+
-http://45.162.64.114/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil" tvg-logo="https://logocanais.pics/imagens/cnnbrasil.png" group-title="Notícias",CNN Brasil
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News" tvg-logo="https://logocanais.pics/imagens/globonews.png" group-title="Notícias",Globo News
-http://79.127.238.228:14093
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News" tvg-logo="https://logocanais.pics/imagens/recordnews.png" group-title="Notícias",Record News
-http://45.162.64.114/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="sbtnews.br" tvg-name="SBT News" tvg-logo="https://logocanais.pics/imagens/sbtnews.png" group-title="Notícias",SBT News
-https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte1" tvg-logo="https://logocanais.pics/imagens/arte1.png" group-title="Entretenimento",Arte1
-http://45.162.64.114/ARTE1/index.m3u8
-#EXTINF:-1 tvg-id="globoplaynovelas.br" tvg-name="Globoplay Novelas" tvg-logo="https://logocanais.pics/imagens/globoplaynovelas.png" group-title="Entretenimento",Globoplay Novelas
-http://79.127.238.228:14455
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo" tvg-logo="https://logocanais.pics/imagens/woohoo.png" group-title="Entretenimento",WooHoo
-http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="canal" tvg-name="Canal" group-title="Canais",Canal
+http://127.0.0.1:8999/direto.m3u8
+#EXTINF:-1 tvg-id="canal" tvg-name="Canal" group-title="Canais",Canal
+http://127.0.0.1:8999/hls/canal1/index.m3u8?token=xyz
+#EXTINF:-1 tvg-id="canal" tvg-name="Canal" group-title="Canais",Canal
+http://127.0.0.1:8999/streams/canal2/master.m3u8?auth=123
