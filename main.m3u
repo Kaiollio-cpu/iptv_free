@@ -1,7 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="canal" tvg-name="Canal" group-title="Canais",Canal
-http://127.0.0.1:8999/direto.m3u8
-#EXTINF:-1 tvg-id="canal" tvg-name="Canal" group-title="Canais",Canal
-http://127.0.0.1:8999/hls/canal1/index.m3u8?token=xyz
-#EXTINF:-1 tvg-id="canal" tvg-name="Canal" group-title="Canais",Canal
-http://127.0.0.1:8999/streams/canal2/master.m3u8?auth=123
+#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://logocanais.pics/imagens/adultswim.png" group-title="Entretenimento",Adult Swim
+https://livestream.st/live/secure/4kGMrzrgjBjg0yZtm0o_Qj0qxRgdQJDiW7qEHGZoa2A/1793954227/dd718eab40e3e9c0/adultswim/index.m3u8
+#EXTINF:-1 tvg-id="ae" tvg-name="AE" tvg-logo="https://logocanais.pics/imagens/ae.png" group-title="Entretenimento",AE
+https://livestream.st/live/secure/G3deCG9Ruz-ZeO3VjHrbz_1CPVOv90a2DPW6huoZVxs/1793954226/8fc80342bb0d6c05/aee/index.m3u8
+#EXTINF:-1 tvg-id="agromais" tvg-name="Agro+" tvg-logo="https://logocanais.pics/imagens/agromais.png" group-title="Notícias",Agro+
+https://livestream.st/live/secure/heKUtWQQpYZEMFCYFpUUvhzUDUyjOUKqKkAWbErqMhY/1793954226/789fcf98dfc2f755/agromais/index.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://logocanais.pics/imagens/amc.png" group-title="Filmes e Séries",AMC
+https://livestream.st/live/secure/3XbAWDnWhnPdPoYZpusoBU6POXnG8H-FgQ_VqI-WYhk/1793954229/dd718eab40e3e9c0/amc/index.m3u8
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://logocanais.pics/imagens/animalplanet.png" group-title="Documentários",Animal Planet
+https://livestream.st/live/secure/g5eIdNRWRhi4NcUP6Nq1uy1MoIrNktJKdhuXj7k8GhA/1793954230/dd718eab40e3e9c0/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="arte1" tvg-name="Arte1" tvg-logo="https://logocanais.pics/imagens/arte1.png" group-title="Entretenimento",Arte1
+https://livestream.st/live/secure/51ulcuomZsGv-uMvWYvhCzOBo9VmN-ck7L4I_q3poMw/1793954230/dd718eab40e3e9c0/arte1/index.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://logocanais.pics/imagens/axn.png" group-title="Filmes e Séries",AXN
+https://livestream.st/live/secure/w90e6GVhbf4J2LQAuTqsb0XHCHDOVdqUsihn11kfcHA/1793954231/dd718eab40e3e9c0/axn/index.m3u8
+#EXTINF:-1 tvg-id="band" tvg-name="Band" tvg-logo="https://logocanais.pics/imagens/band.png" group-title="Canais Abertos",Band
+https://livestream.st/live/secure/ZFu7NWbP-5NLnGXJo3uambNaKohF_PceBR-mrTrkrqE/1793954231/dd718eab40e3e9c0/band/index.m3u8
+#EXTINF:-1 tvg-id="bandnews" tvg-name="Band News" tvg-logo="https://logocanais.pics/imagens/bandnews.png" group-title="Notícias",Band News
+https://livestream.st/live/secure/S6WdcOQ9aWYpRRaJz3tSLgvtZjYwKALyIkS4PqL1Ol4/1793954231/dd718eab40e3e9c0/bandnews/index.m3u8
+#EXTINF:-1 tvg-id="bandsports" tvg-name="Band Sports" tvg-logo="https://logocanais.pics/imagens/bandsports.png" group-title="Esportes",Band Sports
+https://livestream.st/live/secure/MC_8OK20iskj8tnphIEHXY37vEvBxgVoNcYrHJgMX6E/1793954232/dd718eab40e3e9c0/bandsports/index.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://logocanais.pics/imagens/cartoonnetwork.webp" group-title="Infantil",Cartoon Network
+https://livestream.st/live/secure/kXVMAN1Q3_Z2gZs5PIAMvUlaQJvn2BG51vGybxA_4IY/1793954238/dd718eab40e3e9c0/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://logocanais.pics/imagens/cartoonito.webp" group-title="Infantil",Cartoonito
+https://livestream.st/live/secure/DQPkH2vvVI8pfdNqbH4ZLlUFnxb-GBYo_P7LbONYsNE/1793954238/dd718eab40e3e9c0/cartoonito/index.m3u8
