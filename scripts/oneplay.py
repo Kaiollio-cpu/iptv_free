@@ -1,11 +1,9 @@
 """Gera main.m3u a partir dos links de mídia do catálogo do OnePlay 3.1.4."""
 import collections
-import concurrent.futures
 import os
 from pathlib import Path
 import re
-import subprocess
-from urllib.parse import urlsplit
+from urllib.parse import urlencode, urlsplit
 from urllib.request import urlopen
 
 CATALOGO = 'https://gist.githubusercontent.com/zoreu/b1912aa40daaec0eabf1a74c51e310a0/raw/canais_servidor1.txt'
@@ -48,43 +46,53 @@ def endereco(raw):
 def limpar(valor):
     return ' '.join(re.sub(r'\[[^\]]*\]', '', valor).replace('"', '').split())
 
-def reproduz(url):
-    try:
-        teste = subprocess.run(['ffmpeg', '-nostdin', '-loglevel', 'error',
-            '-protocol_whitelist', 'http,https,httpproxy,tcp,tls,crypto', '-rw_timeout', '8000000',
-            '-threads', '1', '-i', url, '-map', '0:v:0', '-an', '-frames:v', '1',
-            '-threads', '1', '-progress', 'pipe:1', '-f', 'null', '-'],
-            capture_output=True, timeout=22)
-        return teste.returncode == 0 and bool(re.search(rb'^frame=[1-9]\d*$', teste.stdout, re.M))
-    except subprocess.TimeoutExpired:
-        return False
+ACOES = {
+    'EMBEDFLIX': 'player_embedflix',
+    'AOVIVOGRATIS': 'player_aovivogratis',
+    'PLAYERTV': 'player_playertv',
+    'DAZN1': 'player_dazn1',
+}
+
+def gerar(texto):
+    itens = set()
+    contagens = collections.Counter()
+    for bloco in re.split(r'(?=^GRUPO=)', texto, flags=re.M):
+        d = dict(re.findall(r'^(\w+)="([^"\r\n]*)"', bloco, re.M))
+        if not d:
+            continue
+        grupo, nome = limpar(d['GRUPO']), limpar(d['NOME'])
+        tipo, valor = d['TIPO'], d['URL']
+        if re.search(r'Adult|A Casa das Brasileirinhas', grupo, re.I):
+            contagens['grupo protegido no Kodi'] += 1
+            continue
+        if not valor or valor == 'url_error':
+            contagens['sem endereço'] += 1
+            continue
+        if tipo in ('NORMAL', 'NORMAL2'):
+            url = endereco(valor)
+            if not url:
+                contagens['endereço não exportável'] += 1
+                continue
+        elif tipo in ACOES and re.fullmatch(r'[a-zA-Z0-9_.-]{1,100}', valor):
+            params = {'action': ACOES[tipo], 'url': valor, 'name': nome, 'playable': 'true'}
+            url = 'plugin://plugin.video.OnePlay/?' + urlencode(params)
+        else:
+            contagens['tipo não reconhecido'] += 1
+            continue
+        itens.add((grupo, nome, url))
+    if not itens:
+        raise ValueError('Catálogo vazio. Publicação cancelada.')
+    linhas = ['#EXTM3U']
+    for grupo, nome, url in sorted(itens):
+        linhas.extend([f'#EXTINF:-1 group-title="{grupo}",{nome}', url])
+    print(f'{len(itens)} entradas exportadas; exclusões: {dict(contagens)}')
+    return '\n'.join(linhas) + '\n'
 
 def main():
     with urlopen(CATALOGO, timeout=30) as resp:
         texto = resp.read().decode('utf-8-sig')
-    por_url = collections.defaultdict(set)
-    registros = 0
-    for bloco in re.split(r'(?=^GRUPO=)', texto, flags=re.M):
-        d = dict(re.findall(r'^(\w+)="([^"\r\n]*)"', bloco, re.M))
-        if 'GRUPO' not in d:
-            continue
-        registros += 1
-        if d.get('TIPO') not in ('NORMAL', 'NORMAL2'):
-            continue
-        url = endereco(d.get('URL', ''))
-        if url and limpar(d.get('NOME', '')):
-            por_url[url].add((limpar(d['GRUPO']), limpar(d['NOME'])))
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as pool:
-        itens = [(grupo, nome, url) for url, ok in zip(por_url, pool.map(reproduz, por_url))
-                 if ok for grupo, nome in por_url[url]]
-    print(f'{registros} entradas, {len(por_url)} links diretos testados, {len(itens)} entradas reproduzíveis.')
-    if not itens:
-        raise SystemExit('Nenhum vídeo confirmado. Lista anterior preservada.')
-    linhas = ['#EXTM3U']
-    for grupo, nome, url in sorted(itens):
-        linhas.extend([f'#EXTINF:-1 group-title="{grupo}",{nome}', url])
     tmp = Path('main.m3u.tmp')
-    tmp.write_text('\n'.join(linhas) + '\n', encoding='utf-8')
+    tmp.write_text(gerar(texto), encoding='utf-8')
     os.replace(tmp, 'main.m3u')
 
 if __name__ == '__main__':
