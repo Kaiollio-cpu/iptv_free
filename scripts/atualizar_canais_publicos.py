@@ -43,25 +43,46 @@ def extrair(texto):
     urls = set(re.findall(r'^URL="([^"\r\n]+)"', texto, re.M))
     return sorted(urls.intersection(FONTES_PUBLICAS))
 
+def falha(etapa, stderr):
+    detalhe = re.search(rb'(?:HTTP error |Server returned |HTTP/\S+ )([45]\d\d)\b', stderr, re.I)
+    motivo = 'HTTP ' + detalhe[1].decode() if detalhe else 'erro ao ler a transmissão'
+    print(f'{etapa}: {motivo}.')
+    return False
+
 def verificar(url):
+    etapa = 'Leitura do canal'
     # Uma resposta HTTP 200 ou manifesto acessível não comprova reprodução.
     try:
         p = subprocess.run(['ffprobe', '-v', 'error', '-rw_timeout', '12000000',
             '-select_streams', 'v:0', '-show_entries', 'stream=codec_name,width,height',
             '-of', 'json', url], capture_output=True, timeout=25)
+        if p.returncode:
+            return falha(etapa, p.stderr)
         streams = json.loads(p.stdout).get('streams', [])
-        if p.returncode or not streams:
+        if not streams:
+            print('Nenhuma faixa de vídeo encontrada.')
             return False
         v = streams[0]
         if v.get('codec_name') != 'h264' or v.get('height') != 720 or v.get('width', 0) > 1280:
+            print(f"Formato recebido: {v.get('codec_name')} {v.get('width')}x{v.get('height')}. Esperado: H.264 em 720p.")
             return False
+        etapa = 'Decodificação de vídeo'
         p = subprocess.run(['ffmpeg', '-nostdin', '-v', 'error', '-rw_timeout', '12000000',
             '-i', url, '-map', '0:v:0', '-map', '0:a:0?', '-t', '2',
             '-progress', 'pipe:1', '-nostats', '-f', 'null', '-'],
             capture_output=True, timeout=30)
         frames = [int(x) for x in re.findall(rb'frame=(\d+)', p.stdout)]
-        return p.returncode == 0 and bool(frames) and max(frames) > 0
-    except (subprocess.TimeoutExpired, ValueError, OSError):
+        if p.returncode:
+            return falha(etapa, p.stderr)
+        if not frames or max(frames) == 0:
+            print('O player não conseguiu decodificar nenhum quadro.')
+            return False
+        return True
+    except subprocess.TimeoutExpired:
+        print(f'{etapa}: tempo limite excedido.')
+        return False
+    except (ValueError, OSError) as erro:
+        print(f'{etapa}: {type(erro).__name__}.')
         return False
 
 def montar(urls):
