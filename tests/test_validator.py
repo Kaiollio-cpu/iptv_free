@@ -103,3 +103,4 @@ def test_temporary_failure_retention():
     finally:
         if os.path.exists(state_file):
             os.remove(state_file)
+

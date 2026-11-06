@@ -204,3 +204,4 @@ O arquivo `main.m3u` será criado/atualizado no diretório raiz, acompanhado pel
 3. **Monitoramento e Relatórios:**
    - Em cada execução, o workflow publica um relatório no **GitHub Step Summary** com métricas completas: canais adicionados, removidos, tempo de execução e taxa de sucesso.
    - O histórico de commits documentará cada atualização periódica com a tag `[skip ci]`.
+

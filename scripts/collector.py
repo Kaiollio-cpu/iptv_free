@@ -190,3 +190,4 @@ class ChannelCollector:
             "reference_channels": catalog,
             "public_streams": public_streams,
         }
+

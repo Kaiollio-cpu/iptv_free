@@ -91,3 +91,4 @@ def test_atomic_write_success():
         assert "#EXTM3U" in content
         assert "Band" in content
         assert "Canais Abertos" in content
+

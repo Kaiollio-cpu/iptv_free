@@ -130,3 +130,4 @@ def test_organize_and_sort():
     assert sorted_list[1]["name"] == "SBT"
     assert sorted_list[2]["name"] == "Agro+"
     assert sorted_list[3]["name"] == "CNN Brasil"
+

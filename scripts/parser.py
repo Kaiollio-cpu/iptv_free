@@ -270,3 +270,4 @@ class ChannelParser:
             ordered_list.extend(channels_in_cat)
 
         return ordered_list
+

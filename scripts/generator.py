@@ -139,3 +139,4 @@ class M3UGenerator:
                 except OSError:
                     pass
             return False
+
