@@ -51,7 +51,7 @@ def limpar(valor):
 def reproduz(url):
     try:
         teste = subprocess.run(['ffmpeg', '-nostdin', '-loglevel', 'error',
-            '-protocol_whitelist', 'http,https,tcp,tls,crypto', '-rw_timeout', '8000000',
+            '-protocol_whitelist', 'http,https,httpproxy,tcp,tls,crypto', '-rw_timeout', '8000000',
             '-threads', '1', '-i', url, '-map', '0:v:0', '-an', '-frames:v', '1',
             '-threads', '1', '-progress', 'pipe:1', '-f', 'null', '-'],
             capture_output=True, timeout=22)
