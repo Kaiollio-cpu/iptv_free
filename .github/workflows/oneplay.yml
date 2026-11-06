@@ -1,0 +1,36 @@
+name: Atualizar canais OnePlay
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - scripts/oneplay.py
+      - .github/workflows/oneplay.yml
+permissions:
+  contents: write
+concurrency:
+  group: oneplay-main
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Instalar FFmpeg
+        run: command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+      - name: Testar canais e gerar M3U
+        run: python3 scripts/oneplay.py
+      - name: Publicar alterações
+        run: |
+          git add -- main.m3u
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Atualiza canais verificados do OnePlay"
+          git push origin HEAD:main
